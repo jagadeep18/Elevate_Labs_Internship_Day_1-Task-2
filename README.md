@@ -68,10 +68,6 @@ This repository contains the analysis of a phishing email sample obtained from *
 
 ---
 
-## 📂 Files
-- `phishing_email_analysis_report.docx` – Full analysis report.
-
----
 
 ## 📜 License
 This content is for **educational and awareness purposes only**.  
