@@ -68,8 +68,3 @@ This repository contains the analysis of a phishing email sample obtained from *
 
 ---
 
-
-## 📜 License
-This content is for **educational and awareness purposes only**.  
-Do **not** reuse phishing emails in real-world campaigns.
-
